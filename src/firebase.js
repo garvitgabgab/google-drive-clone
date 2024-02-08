@@ -8,12 +8,7 @@ import "firebase/storage";
 
 
 const app = firebase.initializeApp({
-  apiKey: "AIzaSyCIlUrwPCF_djPFwgs9faFFscf0aOjLwos",
-  authDomain: "auth-domain-2.firebaseapp.com",
-  projectId: "auth-domain-2",
-  storageBucket: "auth-domain-2.appspot.com",
-  messagingSenderId: "472356365834",
-  appId: "1:472356365834:web:529b8b91926cb1fca5e1f3"
+  // add your creds here
 })
 
 // const firestore = app.firestore()
